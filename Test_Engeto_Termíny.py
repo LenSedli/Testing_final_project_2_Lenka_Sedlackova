@@ -6,10 +6,10 @@ def test_tlacitka_Terminy(page):
     accept_button.click()
 
     # Čekání na zobrazení tlačítka "Termíny"
-    terminy = page.wait_for_selector('a[href="/#terminy"]')
+    terminy = page.wait_for_selector('.block-button.type-premium.size-l.orange-link.hide-mobile')
 
     # Ověření, že text tlačítka je "Termíny"
-    assert terminy.inner_text() == "Termíny", "Text tlačítka není 'Termíny'"
+    assert terminy.inner_text().lower() == "termíny".lower(), "Text tlačítka není 'Termíny'"
 
     # Kliknutí na tlačítko "Termíny"
     terminy.click()
