@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0d28f86-826d-4100-9543-6869a5af56f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Testing_final_project_2_Lenka_Sedlackova.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Engeto_Termíny.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Engeto_tlačítko_Do_portálu.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2i8hclNqZ65Z2eKz3ydyx8NzsJZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for Test_Engeto_Termíny.test_Engeto_Terminy.executor": "Run",
+    "Python tests.Python tests for Test_Engeto_Termíny.test_button.executor": "Run",
+    "Python tests.Python tests for Test_Engeto_Termíny.test_click_portal_button.executor": "Run",
+    "Python tests.Python tests for Test_Engeto_Termíny.test_do_portalu_button.executor": "Run",
+    "Python tests.Python tests for Test_Engeto_Termíny.test_engeto_kontakty.executor": "Run",
+    "Python tests.Python tests for Test_Engeto_Termíny.test_engeto_terminy.executor": "Run",
+    "Python tests.Python tests for Test_Engeto_Termíny.test_navigation_to_terms.executor": "Run",
+    "Python tests.Python tests for Test_Engeto_Termíny.test_tlacitka_Do_portalu.executor": "Run",
+    "Python tests.Python tests for Test_Engeto_Termíny.test_tlacitka_Do_portálu.executor": "Run",
+    "Python tests.Python tests for Test_Engeto_Termíny.test_tlacitka_Terminy.executor": "Run",
+    "Python tests.Python tests for Test_Engeto_Termíny.test_tlacitka_Termíny.executor": "Run",
+    "Python tests.Python tests for Test_Engeto_tlačítko_Do_portálu.test_tlacitka_Do_portalu.executor": "Run",
+    "Python tests.Python tests in Test_Engeto_Termíny.py.executor": "Run",
+    "Python.Test_Engeto_Termíny.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for Test_Engeto_Termíny.test_tlacitka_Terminy">
+    <configuration name="Python tests for Test_Engeto_Termíny.test_click_portal_button" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Testing_final_project_2_Lenka_Sedlackova" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;Test_Engeto_Termíny.test_click_portal_button&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Test_Engeto_Termíny.test_tlacitka_Do_portalu" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Testing_final_project_2_Lenka_Sedlackova" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;Test_Engeto_Termíny.test_tlacitka_Do_portalu&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Test_Engeto_Termíny.test_tlacitka_Terminy" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Testing_final_project_2_Lenka_Sedlackova" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_Engeto_Termíny.test_tlacitka_Terminy&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Test_Engeto_Termíny.test_tlacitka_Termíny" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Testing_final_project_2_Lenka_Sedlackova" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PWDEBUG" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;Test_Engeto_Termíny.test_tlacitka_Termíny&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Test_Engeto_tlačítko_Do_portálu.test_tlacitka_Do_portalu" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Testing_final_project_2_Lenka_Sedlackova" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PWDEBUG" value="0" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
+      <option name="_new_target" value="&quot;Test_Engeto_tlačítko_Do_portálu.test_tlacitka_Do_portalu&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Python tests for Test_Engeto_Termíny.test_tlacitka_Terminy" />
+      <item itemvalue="Python tests.Python tests for Test_Engeto_tlačítko_Do_portálu.test_tlacitka_Do_portalu" />
+      <item itemvalue="Python tests.Python tests for Test_Engeto_Termíny.test_tlacitka_Termíny" />
+      <item itemvalue="Python tests.Python tests for Test_Engeto_Termíny.test_tlacitka_Do_portalu" />
+      <item itemvalue="Python tests.Python tests for Test_Engeto_Termíny.test_click_portal_button" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for Test_Engeto_Termíny.test_tlacitka_Terminy" />
+        <item itemvalue="Python tests.Python tests for Test_Engeto_tlačítko_Do_portálu.test_tlacitka_Do_portalu" />
+        <item itemvalue="Python tests.Python tests for Test_Engeto_Termíny.test_tlacitka_Termíny" />
+        <item itemvalue="Python tests.Python tests for Test_Engeto_Termíny.test_tlacitka_Do_portalu" />
+        <item itemvalue="Python tests.Python tests for Test_Engeto_Termíny.test_click_portal_button" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0d28f86-826d-4100-9543-6869a5af56f9" name="Changes" comment="" />
+      <created>1718878193380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718878193380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_Engeto_tlačítko_Do_portálu.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
